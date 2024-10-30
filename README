@@ -1,0 +1,16 @@
+task1:
+-am implementat in functia data, un algoritm prin care modific imaginea initiala, astfel incat sa fie oglindita pe orizontala
+task2:
+-am alocat o noua matrice, care reprezinta imaginea initiala rotita cu 90 de grade la stanga si am returnat-o
+task3:
+-am alocat o noua matrice, care reprezinta imaginea obtinuta prin crop efectuat pe matricea initiala, care incepe la coordonatele "(x,y)", de dimensiunea "(h,w)" si am returnat-o
+task4:
+-am alocat o noua matrice, care reprezinta imaginea initiala redimensionata, extinsa, cu "rows" linii deasupra si dedesubt si "cols" coloane la stanga si la dreapta, noii pixeli avand aceeasi culoare, data de parametrii new_R, new G si new B si am returnat-o
+task5:
+-am implemetat in functia data, un algoritm de copy-paste, incepand de la coordonatele "(x,y)"
+task6:
+-am alocat o noua matrice, care reprezinta matricea initiala modificata prin aplicarea unui filtru asupra tuturor pixelilor si am returnat-o
+task7:
+-in acest task, am implemetat o versiune interactiva. Am declarat un sir de caractere, iar mai apoi, am citit fiecare comanda. In functie de comanda, am apelat functiile realizate la task-urile precedente, din fisierul "imageprocessing.c"
+task8
+-tablourile alocate dinamic la task-urile anteriore, prin functia "malloc", le-am dezalocat prin functia "free"
